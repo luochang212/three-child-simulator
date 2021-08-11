@@ -39,11 +39,11 @@ Event(time=5, ident=0, name='上官家豪', gender='boy', action='上大学')
 *** end of simulation time: 1 event(s) pending ***
 ```
 
-## 注意
+## 注意事项
 
 Python version >= 3.7
 
-## 声明
+## 灵感来源
 
 灵感来自：微博@小可妮Cony
 
